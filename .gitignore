@@ -1,0 +1,15 @@
+# Archivos de Unity a ignorar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Archivos específicos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de paquetes
+Packages/com.unity.package-manager.cache/

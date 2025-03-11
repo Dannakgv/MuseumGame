@@ -1,0 +1,20 @@
+{
+    "levels": [
+        {
+            "size": 3,
+            "material": "mondrian",
+            "icon": "icon1"
+        },
+        {
+            "size": 4,
+            "material": "portrait",
+            "icon": "icon2"
+        },
+        {
+            "size": 5,
+            "material": "art",
+            "icon": "icon3"
+        }
+    ]
+}
+
