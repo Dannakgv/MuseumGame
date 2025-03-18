@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/InstructionsScene.unity
     guid: 6fb0ec3bc999c49ca9e2267e089d9e13
   - enabled: 1
+    path: Assets/Scenes/LevelManager.unity
+    guid: 81f2d8f24f201447198c8038d0e3e286
+  - enabled: 1
     path: Assets/Scenes/PuzzleScene.unity
     guid: e06b1b3bb959644bcbe417d2af715e87
   m_configObjects:

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8619ed62a9ed64c8eac9964012656819
+guid: 9ddb8f6d97d44498d9ee7c3b5c6f4ed3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3758434122448844559
-    second: mondrian_0
+      213: 8223760342256937110
+    second: room_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mondrian_0
+      name: room_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 225
-        height: 225
+        width: 800
+        height: 635
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f8cab3241c57dbc0800000000000000
-      internalID: -3758434122448844559
+      spriteID: 6986b2eb57aa02270800000000000000
+      internalID: 8223760342256937110
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      mondrian_0: -3758434122448844559
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

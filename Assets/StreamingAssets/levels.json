@@ -2,19 +2,35 @@
     "levels": [
         {
             "size": 3,
-            "material": "mondrian",
-            "icon": "icon1"
-        },
-        {
-            "size": 4,
             "material": "portrait",
             "icon": "icon2"
         },
         {
-            "size": 5,
+            "size": 3,
             "material": "art",
             "icon": "icon3"
+        },
+        {
+            "size": 3,
+            "material": "room",
+            "icon": "icon4"
+        },
+        {
+            "size": 3,
+            "material": "jardin",
+            "icon": "icon5"
+        },
+        {
+            "size": 4,
+            "material": "crab",
+            "icon": "icon6"
+        },
+        {
+            "size": 4,
+            "material": "pearl",
+            "icon": "icon7"
         }
+
     ]
 }
 
